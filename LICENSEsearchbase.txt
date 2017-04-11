@@ -1,0 +1,54 @@
+Name: searchBASE
+version: 2.0
+Summary: A desktop search software with smart search.
+Author: Yugal Sharma
+Author-email: yugalsharma13@gmail.com
+Copyright (c) 2017 Yugal Sharma
+
+
+Terms And Conditions:-
+
+1. Modification of this software is prohibited.
+
+2. This version is only for windows.
+
+3. Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software, including without limitation the rights
+   to use, copy, share, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+
+   - The above permission notice shall be included in all copies or substantial portions of the Software. 
+     When distributed, the notice must be included in all copies or substantial portions of the sosftware.
+   - The Licenses included(if any) with the files will also be distributed as-is.
+
+
+5. The software runs in background to facilitate the automatic scan. The scanning results are indexed and stored in the drive C of users computer.
+
+6. Do not accept this if you are running on a slow primitive processor and low RAM and thus if you EXPECT your system to slow down during its first scan.
+
+7. Representations, Warranties and Disclaimer:
+
+UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS
+ THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE
+MATERIALS, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION,
+ WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, 
+NONINFRINGEMENT, OR THE ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF 
+ABSENCE OF ERRORS, WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT 
+ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO SUCH EXCLUSION MAY NOT APPLY TO YOU.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE 
+LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, 
+INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS 
+LICENSE OR THE USE OF THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGES. 
+
+
+
