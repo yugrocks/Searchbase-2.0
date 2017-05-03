@@ -905,10 +905,11 @@ def process_indx2():
    global memory,current_query,shrt
    for _ in listofwords:
       for ent in x[list2[_]]:
-         if ent in points_dict:
-            points_dict[ent]+=1
-            continue
-         points_dict[ent]=1
+         points_dict[ent]=0
+         temp_file=os.path.basename(listoffiles[ent[0]]).lower()
+         for _2 in current_query.split():
+            if _2 in temp_file:
+               points_dict[ent]+=1
    for _ in current_query.split():
        if _ in memory:
            for file in memory[_]:
