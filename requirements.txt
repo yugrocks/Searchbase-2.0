@@ -1,0 +1,7 @@
+tkinter 
+lxml==3.6.0
+python-ppttx==0.5.8
+openpyxl==2.3.5
+pickle
+python-docx==0.8.6
+py2exe==0.9.2.2
